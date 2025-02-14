@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, Soy Luisa 👋
 
 <!--
 **LUISARAMIREZ08/LUISARAMIREZ08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://i.ibb.co/MDs0GJM1/banner-Luisa.png">
